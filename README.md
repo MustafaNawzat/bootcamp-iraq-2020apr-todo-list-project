@@ -17,7 +17,9 @@ These requirements will basically update each week and you will add to the work 
 - user should be able to select a deadline date for the task which is also a required input.
 - user should be able to use the Enter key to jump from one input to the next one.
 - button that when clicked performs the action of validating the inputs and adding new task as an object to the list of tasks you have.
+- empty the input fields after adding the task to the list.
 - you will have a list of items that each item should display the title and deadline date of the task.
+- show a text if there is no tasks informing the user about that.
 
 #### Styling requirements
 Feel free to use whatever CSS framework or just CSS as long as it looks nice and make sure its responsive too.
