@@ -15,6 +15,7 @@ These requirements will basically update each week and you will add to the work 
 #### Week 1 requirements
 - form with an input field thats required to not be empty for the task title.
 - user should be able to select a deadline date for the task which is also a required input.
+- make sure the user can't pick a date before today
 - user should be able to use the Enter key to jump from one input to the next one.
 - button that when clicked performs the action of validating the inputs and adding new task as an object to the list of tasks you have.
 - empty the input fields after adding the task to the list.
