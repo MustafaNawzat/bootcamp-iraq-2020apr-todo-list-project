@@ -16,7 +16,7 @@ These requirements will basically update each week and you will add to the work 
 - form with an input field thats required to not be empty for the task title.
 - user should be able to select a deadline date for the task which is also a required input.
 - make sure the user can't pick a date before today
-- user should be able to use the Enter key to jump from one input to the next one.
+- user should be able to use the Enter key submit the form.
 - button that when clicked performs the action of validating the inputs and adding new task as an object to the list of tasks you have.
 - empty the input fields after adding the task to the list.
 - you will have a list of items that each item should display the title and deadline date of the task.
@@ -24,3 +24,5 @@ These requirements will basically update each week and you will add to the work 
 
 #### Styling requirements
 Feel free to use whatever CSS framework or just CSS as long as it looks nice and make sure its responsive too.
+
+PS: you shoudn't spend too much time on styling, the primary goal here is to learn JS and making the style looks absolutely beautiful will waste a good amount of your time
